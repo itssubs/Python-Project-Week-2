@@ -1,2 +1,4 @@
 # Python-Project-Week-2
-Python Project for Week 2
+This is the python project for week 2, learned about numpy and vectorization this week.
+Project - Deflection, Shear Force and Bending Moment calculator along with graph. 
+This project is able to provide reactions, maximum deflection and bending moment for a simply supported graph for both point loads and uniformly distributed loads. It also consists of a dictionary of materials that allows the user to insert the material directly instead of looking for the value of Modulus of Elasticity. The user is intially asked to enter the length, division, beam material and beam moment of Inertia as a part of the beam specification. Then loads are classified by the user which includes number of loads and the magnitudes of the loads and position of the loads. Through this the reaction, shear forces, bending moment, curvature, slope and finally deflection are calculated printed and plotted as a graph.
